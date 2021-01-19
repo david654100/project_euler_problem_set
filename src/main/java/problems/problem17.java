@@ -1,11 +1,9 @@
-package problem17;
+package problems;
 
 
 import com.ibm.icu.text.NumberFormat;
 import com.ibm.icu.text.RuleBasedNumberFormat;
 import com.ibm.icu.util.ULocale;
-
-import java.util.Locale;
 
 public class problem17 {
     public static void main(String[] args) {
