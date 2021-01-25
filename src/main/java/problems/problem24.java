@@ -4,8 +4,6 @@ import com.google.common.collect.Collections2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
-import java.util.Set;
 
 
 import static com.google.common.collect.Collections2.orderedPermutations;
